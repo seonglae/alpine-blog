@@ -10,11 +10,11 @@
     "lint": "eslint ."
   },
   "devDependencies": {
-    "@nuxt-themes/alpine": "^1.6.2",
+    "@nuxt-themes/alpine": "^1.6.3",
     "@nuxt/devtools": "^0.8.5",
     "@nuxt/eslint-config": "^0.2.0",
     "@nuxtjs/plausible": "^0.2.3",
-    "@types/node": "^20.7.1",
+    "@types/node": "^20.7.2",
     "eslint": "^8.50.0",
     "nuxt": "^3.7.4"
   }
