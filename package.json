@@ -16,6 +16,6 @@
     "@nuxtjs/plausible": "^0.2.3",
     "@types/node": "^20.9.2",
     "eslint": "^8.54.0",
-    "nuxt": "^3.8.1"
+    "nuxt": "^3.8.2"
   }
 }
